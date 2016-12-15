@@ -1,3 +1,8 @@
+---
+layout: posts
+title: Api - MakerJs Module
+---
+
 # Module MakerJs
 Root module for Maker.js.Example: get a reference to Maker.js```var makerjs = require('makerjs');```
 
